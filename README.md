@@ -116,7 +116,7 @@ Key dependencies (already listed in `requirements.txt`):
 
 ---
 
-## ✅ Best Practices
+# ✅ Best Practices
 - Always run `main.py` first to build models before using Streamlit.  
 - Keep training and prediction separate (training = `main.py`, prediction = `streamlit_app.py`).  
 - Use a virtual environment for clean dependency management.  
