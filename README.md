@@ -4,7 +4,7 @@
 This project predicts intern performance using **machine learning models (Random Forest & XGBoost)**.  
 It follows an **industry‑standard structure** with separate modules for data loading, preprocessing, visualization, modeling, and evaluation.  
 
-## You can:
+# You can:
 - Train models (`main.py`) on your dataset  
 - Save the best models (`rf_best.pkl`, `xgb_best.pkl`)  
 - Use a **Streamlit app (`streamlit_app.py`)** as a simple input interface to predict performance labels based on user‑entered values  
