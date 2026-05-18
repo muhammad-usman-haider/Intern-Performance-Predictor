@@ -11,7 +11,7 @@ It follows an **industry‑standard structure** with separate modules for data l
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 ```
 intern-performance-ml/
 ├─ data/                        # Place your dataset here
