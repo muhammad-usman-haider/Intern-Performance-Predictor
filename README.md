@@ -1,4 +1,4 @@
-# Intern Performance ML Project
+## Intern Performance ML Project
 
 ## 📌 Overview
 This project predicts intern performance using **machine learning models (Random Forest & XGBoost)**.  
