@@ -40,7 +40,7 @@ intern-performance-ml/
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone or download the project
+## 1. Clone or download the project
 ```bash
 git clone <your-repo-url>
 cd intern-performance-ml
