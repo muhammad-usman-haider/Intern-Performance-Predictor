@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Training the Models
+# 📊 Training the Models
 
 1. Place your dataset in `data/intern_performance_data.csv`.  
    Required columns:
