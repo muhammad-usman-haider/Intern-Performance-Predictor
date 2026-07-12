@@ -103,7 +103,7 @@ Select **Random Forest** or **XGBoost**, click **Predict Performance**, and the 
 
 ---
 
-### 🧰 Requirements
+### 🧰 Requirements..
 Key dependencies (already listed in `requirements.txt`):
 - `pandas`
 - `numpy`
