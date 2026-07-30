@@ -52,7 +52,7 @@ python -m venv .venv
 .\.venv\Scripts\activate.bat   # Use activate.bat to avoid PowerShell policy issues
 ```
 
-### 3. Install dependencies
+### 3. Install dependencies-
 ```bash
 pip install -r requirements.txt
 ```
